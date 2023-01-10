@@ -1,12 +1,6 @@
 {
   "blogs": [
     {
-      "title": "Test",
-      "body": "Test body",
-      "author": "mario",
-      "id": 3
-    },
-    {
       "title": "test",
       "body": "12",
       "author": "mario",
